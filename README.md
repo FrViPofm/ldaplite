@@ -9,7 +9,7 @@ As Macaron and Bottle *ldaplite* want be as easy as possible.
 
 ## The files
 
-The main file is the *ldaplite.py* that implemente the plugin.
+The main file is the *ldaplite.py* that implements the plugin.
 
 The second file *model.py* is the models declarations. *Kind of* Macaron's model.
 
